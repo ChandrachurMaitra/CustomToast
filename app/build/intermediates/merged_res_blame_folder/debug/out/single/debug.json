@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_device_songs.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xhdpi\\ic_device_songs.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_online_songs.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\online_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_default_song_layout_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\default_song_layout_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_song_artist.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_song_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_signup_layout_button_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\signup_layout_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_music_note_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_music_note_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_song_artist.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xhdpi\\ic_song_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_greeting_layout_box_1.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\greeting_layout_box_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\font_cardo_italic.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\font\\cardo_italic.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_login_error_page_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\login_error_page_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_device_songs.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\layout\\fragment_device_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_g3.jpg.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\g3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_device_songs.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_device_songs.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_sharing.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\sharing.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_song_albums.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_song_albums.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_device_songs.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xxhdpi\\ic_device_songs.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_hourglass_top_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_hourglass_top_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_navigation_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\navigation_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_h.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_song_artist.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-mdpi\\ic_song_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_verified_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_verified_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_error_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_error_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_music.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_sharing.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\sharing.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_play2.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\play2.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\font_almendra_display.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\font\\almendra_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_song_albums.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xhdpi\\ic_song_albums.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_play2.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\play2.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_song_artist.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-hdpi\\ic_song_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_device_songs.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\device_songs.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_s.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_b.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_music.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_s.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_song_artist.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_song_artist.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_b.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\font_roboto_slab_bold.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\font\\roboto_slab_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_love_song.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\love_song.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_nav_header_layout.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\nav_header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_play_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_play_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_thumbnail_half_black_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\thumbnail_half_black_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_song_albums.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-hdpi\\ic_song_albums.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_h.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-v24\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\font_adamina.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_device_songs.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-mdpi\\ic_device_songs.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_navigation_menu_item_colors.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\bottom_navigation_menu_item_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_hourglass_bottom_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_hourglass_bottom_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_smooth_bar_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\bottom_smooth_bar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\layout_default_song_layout.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\layout\\default_song_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_login_layout_button_background.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\login_layout_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_song_albums.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_song_albums.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_device_songs.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-hdpi\\ic_device_songs.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_love_song.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\love_song.png"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_done_all_24.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\ic_baseline_done_all_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_bottom.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\menu\\menu_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\raw_songs_splash_screen.json.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\raw\\songs_splash_screen.json"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable_g3.jpg.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable\\g3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_song_albums.png.flat",
+        "source": "C:\\Users\\chand\\AndroidStudioProjects\\SangeetInTheMemoryofG3\\app\\src\\main\\res\\drawable-mdpi\\ic_song_albums.png"
+    }
+]

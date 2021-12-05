@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="General Options">
+        <menu>
+            <item
+                android:id="@+id/Mp3"
+                android:icon="@drawable/music"
+                android:title="Trending Songs">
+            </item>
+
+            <item
+                android:id="@+id/Hollywood"
+                android:icon="@drawable/h"
+                android:title="Hollywood Songs">
+            </item>
+
+            <item
+                android:id="@+id/Bollywood"
+                android:icon="@drawable/b"
+                android:title="Bollywood Songs">
+            </item>
+
+            <item
+                android:id="@+id/South"
+                android:icon="@drawable/s"
+                android:title="South Song">
+            </item>
+        </menu>
+    </item>
+
+
+        <item
+            android:title="Others">
+            <menu>
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/sharing"
+                    android:title="Share">
+                </item>
+            </menu>
+        </item>
+</menu>
